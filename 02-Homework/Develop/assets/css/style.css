@@ -112,7 +112,7 @@ p {
 }
 
 
-.benefits {
+aside {
     margin-right: 20px;
     border-radius: 5px ; 
     padding: 20px;
@@ -126,7 +126,7 @@ p {
 }
 
 
-.benefit-category {
+benefit-category {
     margin-bottom: 32px;
     color: #ffffff;
     margin-bottom: 10px;
@@ -134,7 +134,7 @@ p {
 }
 
 
-.benefit-category img {
+benefit-category img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -158,21 +158,23 @@ p {
 }
 
 
-.footer {
-    padding: 80px;
+footer {
+    
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-right: center;
+    padding-left: center;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
 
-.footer p {
+footer p {
 
     color: #000000;
 }
-
-
